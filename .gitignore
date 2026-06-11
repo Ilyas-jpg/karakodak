@@ -1,0 +1,31 @@
+# Bağımlılıklar
+**/node_modules/
+
+# Next.js
+**/.next/
+**/out/
+**/build/
+
+# Ortam değişkenleri (SECRET — asla commit edilmez)
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Vercel
+**/.vercel
+
+# TypeScript
+**/*.tsbuildinfo
+**/next-env.d.ts
+
+# Test / debug çıktıları
+.playwright-mcp/
+dashboard-*.png
+**/npm-debug.log*
+**/yarn-error.log*
+
+# İşletim sistemi
+**/.DS_Store
+Thumbs.db
