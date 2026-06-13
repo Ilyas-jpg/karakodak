@@ -73,3 +73,7 @@ Akım değeri voltaj bölücü oranına bağlıdır. Doğru okuma için: panel *
 ---
 
 *Stack: ESP32 (Arduino) · Supabase (Postgres + Realtime) · Next.js 16 · Vercel*
+
+## Lisans
+
+[MIT](LICENSE) © 2026 İlyas Saltay
