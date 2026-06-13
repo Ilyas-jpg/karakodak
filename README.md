@@ -76,4 +76,4 @@ Akım değeri voltaj bölücü oranına bağlıdır. Doğru okuma için: panel *
 
 ## Lisans
 
-[MIT](LICENSE) © 2026 İlyas Saltay
+Â© 2026 Ä°lyas Saltay â TÃ¼m haklarÄ± saklÄ±dÄ±r. AyrÄ±ntÄ±: [LICENSE](LICENSE)
